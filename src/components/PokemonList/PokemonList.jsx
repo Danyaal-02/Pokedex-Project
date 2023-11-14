@@ -1,5 +1,3 @@
-import { useEffect, useState } from "react"
-import axios from 'axios'
 import './PokemonList.css'
 import Pokemon from "../Pokemon/Pokemon"
 import usePokemonList from "../../hooks/usePokemonList.js"
